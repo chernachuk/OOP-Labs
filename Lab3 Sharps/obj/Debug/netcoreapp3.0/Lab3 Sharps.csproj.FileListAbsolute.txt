@@ -1,0 +1,3 @@
+C:\Users\Ponchik\source\repos\OOP\Lab3 Sharps\obj\Debug\netcoreapp3.0\Lab3 Sharps.csprojAssemblyReference.cache
+C:\Users\Ponchik\source\repos\OOP\Lab3 Sharps\obj\Debug\netcoreapp3.0\Lab3 Sharps.AssemblyInfoInputs.cache
+C:\Users\Ponchik\source\repos\OOP\Lab3 Sharps\obj\Debug\netcoreapp3.0\Lab3 Sharps.AssemblyInfo.cs

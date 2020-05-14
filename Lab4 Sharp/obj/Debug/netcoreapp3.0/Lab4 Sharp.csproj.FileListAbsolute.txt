@@ -1,0 +1,11 @@
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\obj\Debug\netcoreapp3.0\Lab4 Sharp.csprojAssemblyReference.cache
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\obj\Debug\netcoreapp3.0\Lab4 Sharp.AssemblyInfoInputs.cache
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\obj\Debug\netcoreapp3.0\Lab4 Sharp.AssemblyInfo.cs
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\bin\Debug\netcoreapp3.0\Lab4 Sharp.exe
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\bin\Debug\netcoreapp3.0\Lab4 Sharp.deps.json
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\bin\Debug\netcoreapp3.0\Lab4 Sharp.runtimeconfig.json
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\bin\Debug\netcoreapp3.0\Lab4 Sharp.runtimeconfig.dev.json
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\bin\Debug\netcoreapp3.0\Lab4 Sharp.dll
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\bin\Debug\netcoreapp3.0\Lab4 Sharp.pdb
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\obj\Debug\netcoreapp3.0\Lab4 Sharp.dll
+C:\Users\Ponchik\source\repos\OOP\Lab4 Sharp\obj\Debug\netcoreapp3.0\Lab4 Sharp.pdb

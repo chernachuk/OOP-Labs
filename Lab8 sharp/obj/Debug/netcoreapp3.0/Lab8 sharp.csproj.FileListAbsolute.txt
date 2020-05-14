@@ -1,0 +1,11 @@
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\bin\Debug\netcoreapp3.0\Lab8 sharp.exe
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\bin\Debug\netcoreapp3.0\Lab8 sharp.deps.json
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\bin\Debug\netcoreapp3.0\Lab8 sharp.runtimeconfig.json
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\bin\Debug\netcoreapp3.0\Lab8 sharp.runtimeconfig.dev.json
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\bin\Debug\netcoreapp3.0\Lab8 sharp.dll
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\bin\Debug\netcoreapp3.0\Lab8 sharp.pdb
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\obj\Debug\netcoreapp3.0\Lab8 sharp.AssemblyInfoInputs.cache
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\obj\Debug\netcoreapp3.0\Lab8 sharp.AssemblyInfo.cs
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\obj\Debug\netcoreapp3.0\Lab8 sharp.dll
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\obj\Debug\netcoreapp3.0\Lab8 sharp.pdb
+C:\Users\Ponchik\source\repos\OOP\Lab8 sharp\obj\Debug\netcoreapp3.0\Lab8 sharp.csprojAssemblyReference.cache

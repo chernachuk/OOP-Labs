@@ -1,0 +1,7 @@
+﻿  Lab 4 ++.cpp
+C:\Users\Ponchik\source\repos\OOP\Lab 4 ++\Lab 4 ++.cpp(56,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ponchik\source\repos\OOP\Lab 4 ++\Lab 4 ++.cpp(57,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ponchik\source\repos\OOP\Lab 4 ++\Lab 4 ++.cpp(58,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ponchik\source\repos\OOP\Lab 4 ++\Lab 4 ++.cpp(59,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ponchik\source\repos\OOP\Lab 4 ++\Lab 4 ++.cpp(62,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab 4 ++.vcxproj -> C:\Users\Ponchik\source\repos\OOP\Debug\Lab 4 ++.exe
